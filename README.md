@@ -13,14 +13,7 @@ Para executar o projeto em sua maquina local será necessário uma série de com
 Em seu console digite:
 
 ```
-// Utilizando yarn
-yarn add @emotion/react @emotion/styled @material-ui/core @material-ui/icons @mui/icons-material @mui/material @mui/styled-engine-sc react react-dom;
-yarn add -D @types/react @types/react-dom @vitejs/plugin-react typescript vite;
-
-
-// Utilizando npm
-npm i --save @emotion/react @emotion/styled @material-ui/core @material-ui/icons @mui/icons-material @mui/material @mui/styled-engine-sc react react-dom;
-npm i --save-dev @types/react @types/react-dom @vitejs/plugin-react typescript vite;
+yarn install
 ```
 
 E para executar digite em seu console:
