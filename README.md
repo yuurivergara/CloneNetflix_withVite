@@ -13,26 +13,13 @@ Para executar o projeto em sua maquina local será necessário uma série de com
 Em seu console digite:
 
 ```
-// Utilizando npm:
-
-npm install
-
-// Utilizando yarn:
-
-yarn install
+npm install --legacy-peer-deps
 ```
 
 E para executar digite em seu console:
 
 ```
-// Utilizando yarn:
-
-yarn dev
-
-// Utilizando npm:
-
 npm run dev
-
 ```
 O projeto será executado em sua porta local 3000, para visualizá-lo, em seu navegador, digite: http://localhost:3000.
 
