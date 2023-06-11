@@ -13,6 +13,12 @@ Para executar o projeto em sua maquina local será necessário uma série de com
 Em seu console digite:
 
 ```
+// Utilizando npm:
+
+npm install
+
+// Utilizando yarn:
+
 yarn install
 ```
 
